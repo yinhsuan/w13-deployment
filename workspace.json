@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "gke-demo": "apps/gke-demo",
+    "gke-demo-e2e": "apps/gke-demo-e2e"
+  }
+}
